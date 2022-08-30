@@ -1,2 +1,2 @@
 My first readme
-Updated
+This is my second readme as a software engineer
